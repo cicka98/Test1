@@ -10,7 +10,7 @@ int main()
 	{
 		Sleep(1000);
 		system("cls");
-		cout<< i;
+		cout<< i << endl;
 	}
 	cout << "JEBUT!";
 	return 0;
