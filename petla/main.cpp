@@ -12,6 +12,6 @@ int main()
 		system("cls");
 		cout<< i << endl;
 	}
-	cout << "JEBUT!"  ;
+	cout << "JEBUT!";
 	return 0;
 }
