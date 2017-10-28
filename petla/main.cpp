@@ -8,8 +8,8 @@ int main()
 {
     for (int i=20; i>=0; i--)
 	{
-		Sleep (1000);
-		system ("cls");
+		Sleep(1000);
+		system("cls");
 		cout<< i << endl;
 	}
 	cout <<"JEBUT!";
